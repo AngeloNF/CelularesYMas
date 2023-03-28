@@ -1,0 +1,44 @@
+[
+    {
+        "id": "Celular 7Step Q1 4g",
+        "imagen": "Imagenes Celulares/Celular 7Step Q1 4g.jpg",
+        "precio": "¢24.500,00",
+        "caracteristicas": [
+            "Bateria 1000mAH",
+            "Camara 0.3MP",
+            "Memoria 48M + 128mb",
+            "Bluetooth",
+            "SIM 4G",
+            "Radio Fm",
+            "Linterna",
+            "Alarma",
+            "Calculadora",
+            "Cargador Tipo-C"
+        ]
+    },
+    {
+        "id": "Celular Adulto Mayor 7Step Q4",
+        "imagen": "Imagenes Celulares/Celular Adulto Mayor 7Step Q4.jpg",
+        "precio": "¢29.950,00",
+        "caracteristicas": [
+            "Bateria 1200mAH",
+            "Camara 2MP",
+            "Memoria 48M + 128mb",
+            "SIM 4G",
+            "Bluetooth",
+            "Radio Fm",
+            "Linterna",
+            "Alarma",
+            "Calculadora",
+            "Cargador Tipo-C"
+        ]
+    },
+    {
+        "id": "Celular Blu J0901 JOY 3G",
+        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
+        "precio": "¢37.120,00",
+        "caracteristicas": [
+            "Linterna"
+        ]
+    }
+]
