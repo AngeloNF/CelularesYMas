@@ -1,8 +1,8 @@
 [
     {
-        "id": "Celular 7Step Q1 4g",
+        "id": "7Step Q1 4g",
         "imagen": "Imagenes Celulares/Celular 7Step Q1 4g.jpg",
-        "precio": "¢24.500,00",
+        "precio": "¢24.500",
         "caracteristicas": [
             "Bateria 1000mAH",
             "Camara 0.3MP",
@@ -17,9 +17,9 @@
         ]
     },
     {
-        "id": "Celular Adulto Mayor 7Step Q4",
+        "id": "Adulto Mayor 7Step Q4",
         "imagen": "Imagenes Celulares/Celular Adulto Mayor 7Step Q4.jpg",
-        "precio": "¢29.950,00",
+        "precio": "¢29.950",
         "caracteristicas": [
             "Bateria 1200mAH",
             "Camara 2MP",
@@ -31,6 +31,120 @@
             "Alarma",
             "Calculadora",
             "Cargador Tipo-C"
+        ]
+    },
+    {
+        "id": "Blu J0901 JOY 3G",
+        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
+        "precio": "¢37.120",
+        "caracteristicas": [
+            "Linterna"
+        ]
+    },
+    {
+        "id": "Blu X10 32GB",
+        "imagen": "Imagenes Celulares/Celular Blu X10 32GB.jpeg",
+        "precio": "¢55.000",
+        "caracteristicas": [
+            "Tamaño de pantalla: 5\"",
+            "Batería: 2,000 mah.",
+            "Cámara trasera: 8 mp.",
+            "Cámara frontal: 5 mp.",
+            "Sistema Operativo: android.",
+            "Versión del sistema operativo: 11 go.",
+            "Red: 3g.",
+            "Marca: BLU.",
+            "Colores disponibles: Azul-rojo-negro y verde"
+        ]
+    },
+    {
+        "id": "Blu Z4",
+        "imagen": "Imagenes Celulares/Celular Blu Z4.jpeg",
+        "precio": "¢21.000",
+        "caracteristicas": [
+            "Conectividad Bluetooth",
+            "Reproduce música en formato MP3/MP4",
+            "Cámara de fotos con flash LED",
+            "Filma videos",
+            "Radio FM",
+            "Soporta ringtones",
+            "Altavoz incorporado",
+            "Ranura para SD hasta 32gb",
+            "Colores disponibles: gris con negro"
+        ]
+    },
+    {
+        "id": "Blu Z5",
+        "imagen": "Imagenes Celulares/Celular Blu Z5.jpeg",
+        "precio": "¢21.500",
+        "caracteristicas": [
+            "SIM dual",
+            "pantalla de 1.8 pulgadas 128 x 160 ~ 114 ppi.",
+            "Interno de 32 MB | 32 MB RAM ranura MicroSD de hasta 32 GB.",
+            "Cámara VGA",
+            "Batería de 600 mAh.",
+            "Antena FM integrada MP3, reproductor de MP4, ",
+            "Linterna.",
+            "GSM 850/900/1800/1900.",
+            "Colores disponibles: Negro y Gris"
+        ]
+    },
+    {
+        "id": "Honor 50 256GB",
+        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
+        "precio": "¢37.120,00",
+        "caracteristicas": [
+            "Pantalla: 6.67\", 1080 x 2400 pixels",
+            "Procesador: Snapdragon 778G+ 2.5GHz",
+            "RAM: 8GB/12GB",
+            "Almacenamiento: 256GB",
+            "Expansión: sin microSD",
+            "Cámara: Triple, 54MP+50MP+2MP",
+            "Batería: 4800 mAh",
+            "OS: Android 12",
+            "Perfil: 7.9 mm",
+            "Peso: 178 g",
+            "COLOR Frost Crystal"
+        ]
+    },
+    {
+        "id": "Celular Blu J0901 JOY 3G",
+        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
+        "precio": "¢37.120,00",
+        "caracteristicas": [
+            "Linterna"
+        ]
+    },
+    {
+        "id": "Celular Blu J0901 JOY 3G",
+        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
+        "precio": "¢37.120,00",
+        "caracteristicas": [
+            "Linterna"
+        ]
+    },
+    {
+        "id": "Celular Blu J0901 JOY 3G",
+        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
+        "precio": "¢37.120,00",
+        "caracteristicas": [
+            "Linterna"
+        ]
+    },
+    {
+        "id": "Celular Blu J0901 JOY 3G",
+        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
+        "precio": "¢37.120,00",
+        "caracteristicas": [
+            "Linterna"
+        ]
+    },
+    {
+        "id": "Celular Blu J0901 JOY 3G",
+        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
+        "precio": "¢37.120,00",
+        "caracteristicas": [
+            "Linterna"
         ]
     },
     {
