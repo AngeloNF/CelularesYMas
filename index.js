@@ -1,6 +1,6 @@
 
 
-fetch('https://raw.githubusercontent.com/AngeloNF/GithubPagesTest/main/celulares.json')
+fetch('https://raw.githubusercontent.com/AngeloNF/CelularesYMas/main/celulares.json')
     .then((response) => response.json()).then(json => cargarcelulares(json))
 
 
