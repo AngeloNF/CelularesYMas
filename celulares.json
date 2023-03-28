@@ -91,60 +91,110 @@
     },
     {
         "id": "Honor 50 256GB",
-        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpg",
-        "precio": "¢37.120,00",
+        "imagen": "Imagenes Celulares/Celular Honor 50.jpg",
+        "precio": "¢313.750",
+        "caracteristicas": [
+            "6.57\", 1080 x 2340 pixels",
+            "Procesador: Snapdragon 778G+ 2.4GHz",
+            "RAM: 8GB",
+            "Almacenamiento: 256GB",
+            "Expansión: sin microSD",
+            "Cuádruple, 108MP+8MP +2MP+2MP",
+            "Batería: 4300 mAh",
+            "OS: Android 11",
+            "Perfil: 7.7 mm",
+            "Peso: 175 g",
+            "COLOR Frost Crystal"
+        ]
+    },
+    {
+        "id": "Honor 70 256GB",
+        "imagen": "Imagenes Celulares/Celular Honor 70.jpg",
+        "precio": "¢360.000",
         "caracteristicas": [
             "Pantalla: 6.67\", 1080 x 2400 pixels",
             "Procesador: Snapdragon 778G+ 2.5GHz",
             "RAM: 8GB/12GB",
-            "Almacenamiento: 256GB",
+            "Almacenamiento: 256GB/512GB",
             "Expansión: sin microSD",
             "Cámara: Triple, 54MP+50MP+2MP",
             "Batería: 4800 mAh",
             "OS: Android 12",
             "Perfil: 7.9 mm",
             "Peso: 178 g",
-            "COLOR Frost Crystal"
+            "Color disponible: plateado"     
         ]
     },
     {
-        "id": "Celular Blu J0901 JOY 3G",
-        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
-        "precio": "¢37.120,00",
+        "id": "Honor X6 64GB",
+        "imagen": "Imagenes Celulares/Celular Honor X6 64GB.jpg",
+        "precio": "¢114.000",
         "caracteristicas": [
-            "Linterna"
+            "Pantalla. 6.5\"",
+            "Cámara. Cámara principal: 50 MP + 2 MP + 2 MP. Cámara frontal:",
+            "5 MP.",
+            "Memoria Interna. Almacenamiento: 64GB. RAM: 4GB.",
+            "Procesador. Mediatek Helio 4*A53.",
+            "Colores disponibles: Negro-azul y plateado"
+            
         ]
     },
     {
-        "id": "Celular Blu J0901 JOY 3G",
-        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
-        "precio": "¢37.120,00",
+        "id": "Celular Honor X6s 128GB",
+        "imagen": "Imagenes Celulares/Celular Honor X6s 128GB.webp",
+        "precio": "¢130.000",
         "caracteristicas": [
-            "Linterna"
+            "Pantalla: 6.5\" 1600 x 720 TFTLCD",
+            "Almacenamiento: 128Gb / 4Gb RAM",
+            "CÁMARA PRINCIPAL: 50 MP camera (f/1.8)",
+            "CÁMARA FRONTAL: 5 MP Camera (apertura f/2.2 )",
+            "BATERÍA 5000 mAh",
+            "Protocolos Wi-Fi 802.11 a/b/g/n/ac",
+            "Bluetooth 5.1",
+            "SISTEMA OPERATIVO MagicUI 6.1 (basado en Android 12)",
+            "Octa-Core MediaTek Helio G25",
+            "Sensor de gravedad, Sensor de huellas digitales, Sensor de luz ambiental, Sensor de proximidad",
+            "163.66 mm x 75.13 mm x 8.68 mm",
+            "PESO 194g"
         ]
     },
     {
-        "id": "Celular Blu J0901 JOY 3G",
-        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
-        "precio": "¢37.120,00",
+        "id": "Celular Honor X7a 128GB",
+        "imagen": "Imagenes Celulares/Celular Honor X7a 128GB.jpg",
+        "precio": "¢145.000",
         "caracteristicas": [
-            "Linterna"
+            "Pantalla: 6.74\", 720 x 1600 pixels",
+            "Procesador: Mediatek Helio G37 2.3GHz",
+            "RAM: 4GB/6GB",
+            "Almacenamiento: 128GB",
+            "Expansión: microSD",
+            "Cámara: Cuádruple, 50MP+5MP +2MP+2MP",
+            "Batería: 6000 mAh",
+            "OS: Android 12",
+            "Perfil: 8.3 mm",
+            "Peso: 196 g",
+            "colores disponibles: azul y plateado"
+            
         ]
     },
     {
-        "id": "Celular Blu J0901 JOY 3G",
-        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
-        "precio": "¢37.120,00",
+        "id": "Celular Honor X8 128GB",
+        "imagen": "Imagenes Celulares/Celular Honor X8 128GB.jpg",
+        "precio": "¢170.000",
         "caracteristicas": [
-            "Linterna"
-        ]
-    },
-    {
-        "id": "Celular Blu J0901 JOY 3G",
-        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
-        "precio": "¢37.120,00",
-        "caracteristicas": [
-            "Linterna"
+            "PANTALLA: LCD 6,7\"90 HzFull HD+",
+            "PROCESADOR: Snapdragon 680",
+            "RAM: 6 GB",
+            "ALMACENAMIENTO: 128 GB",
+            "CÁMARA FRONTAL: 16 MP f/2.45",
+            "CÁMARA TRASERA: 64 MP f/1.8 5 MP f/2.2 UGA Lente bokeh f/2.4",
+            "Lente macro f/2.4",
+            "BATERÍA: 4.000 mAh Carga rápida 22,5W",
+            "SISTEMA OPERATIVO: Magic UI 4.2 Android 11",
+            "CONECTIVIDAD: 4G Wi-Fi ac Bluetooth 5.0 Minijack USB-C",
+            "Colores disponibles: plateado y azul",
+            "Lector de huellas en un lateral"
+            
         ]
     },
     {
