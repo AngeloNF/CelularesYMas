@@ -8,7 +8,7 @@ cargarcelulares = function (datos) {
     datos.forEach(element => {
         var carac = ""
         element.caracteristicas.forEach(element => {
-            carac += " <li>" + element + "</li>"
+            carac += "<li>" + element + "</li>"
         });
 
 

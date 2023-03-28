@@ -122,7 +122,7 @@
             "OS: Android 12",
             "Perfil: 7.9 mm",
             "Peso: 178 g",
-            "Color disponible: plateado"     
+            "Color disponible: plateado"
         ]
     },
     {
@@ -136,11 +136,10 @@
             "Memoria Interna. Almacenamiento: 64GB. RAM: 4GB.",
             "Procesador. Mediatek Helio 4*A53.",
             "Colores disponibles: Negro-azul y plateado"
-            
         ]
     },
     {
-        "id": "Celular Honor X6s 128GB",
+        "id": "Honor X6s 128GB",
         "imagen": "Imagenes Celulares/Celular Honor X6s 128GB.webp",
         "precio": "¢130.000",
         "caracteristicas": [
@@ -159,7 +158,7 @@
         ]
     },
     {
-        "id": "Celular Honor X7a 128GB",
+        "id": "Honor X7a 128GB",
         "imagen": "Imagenes Celulares/Celular Honor X7a 128GB.jpg",
         "precio": "¢145.000",
         "caracteristicas": [
@@ -174,11 +173,10 @@
             "Perfil: 8.3 mm",
             "Peso: 196 g",
             "colores disponibles: azul y plateado"
-            
         ]
     },
     {
-        "id": "Celular Honor X8 128GB",
+        "id": "Honor X8 128GB",
         "imagen": "Imagenes Celulares/Celular Honor X8 128GB.jpg",
         "precio": "¢170.000",
         "caracteristicas": [
@@ -194,15 +192,122 @@
             "CONECTIVIDAD: 4G Wi-Fi ac Bluetooth 5.0 Minijack USB-C",
             "Colores disponibles: plateado y azul",
             "Lector de huellas en un lateral"
-            
         ]
     },
     {
-        "id": "Celular Blu J0901 JOY 3G",
-        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
-        "precio": "¢37.120,00",
+        "id": "iPhone 7 Plus 128GB",
+        "imagen": "Imagenes Celulares/Celular iPhone 7 Plus 128GB.jpg",
+        "precio": "¢180.000",
+        "caracteristicas": [
+            "Pantalla: 5.5\", 1080 x 1920 pixels",
+            "Procesador: Apple A10 Fusion",
+            "RAM: 3GB",
+            "Almacenamiento: 128GB",
+            "Cámara: 12 MP, Dual",
+            "Batería: 2900 mAh",
+            "OS: iOS 10",
+            "Perfil: 7.3 mm",
+            "Peso: 188 g",
+            "color: negro"
+        ]
+    },
+    {
+        "id": "iPhone 7 Plus 32GB",
+        "imagen": "Imagenes Celulares/Celular iPhone 7 Plus 128GB.jpg",
+        "precio": "¢160.000",
+        "caracteristicas": [
+            "Pantalla: 5.5\", 1080 x 1920 pixels",
+            "Procesador: Apple A10 Fusion",
+            "RAM: 3GB",
+            "Almacenamiento: 32GB",
+            "Cámara: 12 MP, Dual",
+            "Batería: 2900 mAh",
+            "OS: iOS 10",
+            "Perfil: 7.3 mm",
+            "Peso: 188 g",
+            "color: negro"
+        ]
+    },
+    {
+        "id": "iPhone 8 Plus 256GB",
+        "imagen": "Imagenes Celulares/Celular iPhone 8 PLus 256GB.png",
+        "precio": "¢210.000",
+        "caracteristicas": [
+            "Pantalla: 5.5\", 1080 x 1920 pixels",
+            "Procesador: Apple A11 Bionic",
+            "RAM: 3GB",
+            "Almacenamiento: 256GB",
+            "Expansión: sin microSD",
+            "Cámara: 12 MP, Dual",
+            "Batería: 2700 mAh",
+            "OS: iOS 11",
+            "Perfil: 7.5 mm",
+            "Peso: 202 g",
+            "Color Dorado"
+        ]
+    },
+    {
+        "id": "Celular LW-105",
+        "imagen": "Imagenes Celulares/Celular LW-105.jpg",
+        "precio": "¢20.000",
         "caracteristicas": [
             "Linterna"
+        ]
+    },
+    {
+        "id": "Celular Redmi A2 32GB",
+        "imagen": "Imagenes Celulares/Celular Redmi A2 32GB.jpg",
+        "precio": "¢83.000",
+        "caracteristicas": [
+            "Pantalla: 5.99\", 1080 x 2160 pixels",
+            "Procesador: Snapdragon 660 2.2GHz",
+            "RAM: 4GB/6GB",
+            "Almacenamiento: 32GB/64GB/128GB",
+            "Expansión: sin microSD",
+            "Cámara: Dual, 12MP+20MP",
+            "Batería: 3010 mAh",
+            "OS: Android 8.1",
+            "Perfil: 7.3 mm",
+            "Peso: 166 g",
+            "Colores disponibles: negro"
+        ]
+    },
+    {
+        "id": "Celular Samsung A03 32GB",
+        "imagen": "Imagenes Celulares/Celular Samsung A03 32GB.jpg",
+        "precio": "¢100.000",
+        "caracteristicas": [
+            "PANTALLA: 6,5 pulgadas HD+",
+            "DIMENSIONES Y PESO: 164,2 x 75,9 x 9,1 mm",
+            "PROCESADOR: Ocho núcleos a hasta 1,6 ?GHz",
+            "RAM: 3/4 GB",
+            "ALMACENAMIENTO: 32GB",
+            "CÁMARA FRONTAL: 5 MP f/2.2",
+            "CÁMARA TRASERA: 48 MP f/1.8",
+            "2 MP f/2.4",
+            "BATERÍA: 5.000 mAh",
+            "SISTEMA OPERATIVO: Android One UI",
+            "CONECTIVIDAD: 4G,Wi-Fi y Bluetooth",
+            "Colores disponibles: Rojo,Azul y negro"
+        ]
+    },
+    {
+        "id": "Celular Samsung A03 32GB",
+        "imagen": "Imagenes Celulares/Celular Samsung A03 32GB.jpg",
+        "precio": "¢100.000",
+        "caracteristicas": [
+            "PANTALLA: 6,5 pulgadas HD+",
+            "DIMENSIONES Y PESO: 164,2 x 75,9 x 9,1 mm",
+            "PROCESADOR: Ocho núcleos a hasta 1,6 ?GHz",
+            "RAM: 3/4 GB",
+            "ALMACENAMIENTO: 32GB",
+            "CÁMARA FRONTAL: 5 MP f/2.2",
+            "CÁMARA TRASERA: 48 MP f/1.8",
+            "2 MP f/2.4",
+            "BATERÍA: 5.000 mAh",
+            "SISTEMA OPERATIVO: Android One UI",
+            "CONECTIVIDAD: 4G,Wi-Fi y Bluetooth",
+            "Colores disponibles: Rojo,Azul y negro"
         ]
     }
 ]
