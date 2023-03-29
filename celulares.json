@@ -94,17 +94,16 @@
         "imagen": "Imagenes Celulares/Celular Honor 50.jpg",
         "precio": "¢313.750",
         "caracteristicas": [
-            "6.57\", 1080 x 2340 pixels",
-            "Procesador: Snapdragon 778G+ 2.4GHz",
+            "Pantalla: 6.57\", 1080 x 2340 pixels",
+            "Procesador: Snapdragon 778G 2.4GHz",
             "RAM: 8GB",
-            "Almacenamiento: 256GB",
+            "Almacenamiento: 128GB/256GB",
             "Expansión: sin microSD",
-            "Cuádruple, 108MP+8MP +2MP+2MP",
+            "Cámara: Cuádruple, 108MP+8MP +2MP+2MP",
             "Batería: 4300 mAh",
             "OS: Android 11",
             "Perfil: 7.7 mm",
-            "Peso: 175 g",
-            "COLOR Frost Crystal"
+            "Peso: 175 g"
         ]
     },
     {
@@ -121,8 +120,7 @@
             "Batería: 4800 mAh",
             "OS: Android 12",
             "Perfil: 7.9 mm",
-            "Peso: 178 g",
-            "Color disponible: plateado"
+            "Peso: 178 g"
         ]
     },
     {
@@ -130,12 +128,16 @@
         "imagen": "Imagenes Celulares/Celular Honor X6 64GB.jpg",
         "precio": "¢114.000",
         "caracteristicas": [
-            "Pantalla. 6.5\"",
-            "Cámara. Cámara principal: 50 MP + 2 MP + 2 MP. Cámara frontal:",
-            "5 MP.",
-            "Memoria Interna. Almacenamiento: 64GB. RAM: 4GB.",
-            "Procesador. Mediatek Helio 4*A53.",
-            "Colores disponibles: Negro-azul y plateado"
+            "            Pantalla: 6.5\", 720 x 1600 pixels",
+            "Procesador: Mediatek Helio G25 2GHz",
+            "RAM: 4GB",
+            "Almacenamiento: 64GB/128GB",
+            "Expansión: microSD",
+            "Cámara: Triple, 50MP+2MP+2MP",
+            "Batería: 5000 mAh",
+            "OS: Android 12",
+            "Perfil: 8.7 mm",
+            "Peso: 194 g"
         ]
     },
     {
@@ -171,8 +173,7 @@
             "Batería: 6000 mAh",
             "OS: Android 12",
             "Perfil: 8.3 mm",
-            "Peso: 196 g",
-            "colores disponibles: azul y plateado"
+            "Peso: 196 g"
         ]
     },
     {
@@ -180,18 +181,16 @@
         "imagen": "Imagenes Celulares/Celular Honor X8 128GB.jpg",
         "precio": "¢170.000",
         "caracteristicas": [
-            "PANTALLA: LCD 6,7\"90 HzFull HD+",
-            "PROCESADOR: Snapdragon 680",
-            "RAM: 6 GB",
-            "ALMACENAMIENTO: 128 GB",
-            "CÁMARA FRONTAL: 16 MP f/2.45",
-            "CÁMARA TRASERA: 64 MP f/1.8 5 MP f/2.2 UGA Lente bokeh f/2.4",
-            "Lente macro f/2.4",
-            "BATERÍA: 4.000 mAh Carga rápida 22,5W",
-            "SISTEMA OPERATIVO: Magic UI 4.2 Android 11",
-            "CONECTIVIDAD: 4G Wi-Fi ac Bluetooth 5.0 Minijack USB-C",
-            "Colores disponibles: plateado y azul",
-            "Lector de huellas en un lateral"
+            "Pantalla: 6.7\", 1080 x 2388 pixels",
+            "Procesador: Snapdragon 680 2.4GHz",
+            "RAM: 6GB",
+            "Almacenamiento: 128GB",
+            "Expansión: sin microSD",
+            "Cámara: Cuádruple,",
+            "64MP+5MP +2MP+2MP",
+            "Batería: 4000 mAh",
+            "OS: Android 11",
+            "Perfil: 7.5 mm"
         ]
     },
     {
@@ -202,13 +201,11 @@
             "Pantalla: 5.5\", 1080 x 1920 pixels",
             "Procesador: Apple A10 Fusion",
             "RAM: 3GB",
-            "Almacenamiento: 128GB",
+            "Almacenamiento: 32GB/128GB",
             "Cámara: 12 MP, Dual",
             "Batería: 2900 mAh",
             "OS: iOS 10",
-            "Perfil: 7.3 mm",
-            "Peso: 188 g",
-            "color: negro"
+            "Perfil: 7.3 mm"
         ]
     },
     {
@@ -219,13 +216,11 @@
             "Pantalla: 5.5\", 1080 x 1920 pixels",
             "Procesador: Apple A10 Fusion",
             "RAM: 3GB",
-            "Almacenamiento: 32GB",
+            "Almacenamiento: 32GB/128GB",
             "Cámara: 12 MP, Dual",
             "Batería: 2900 mAh",
             "OS: iOS 10",
-            "Perfil: 7.3 mm",
-            "Peso: 188 g",
-            "color: negro"
+            "Perfil: 7.3 mm"
         ]
     },
     {
@@ -236,14 +231,12 @@
             "Pantalla: 5.5\", 1080 x 1920 pixels",
             "Procesador: Apple A11 Bionic",
             "RAM: 3GB",
-            "Almacenamiento: 256GB",
+            "Almacenamiento: 64GB/256GB",
             "Expansión: sin microSD",
             "Cámara: 12 MP, Dual",
             "Batería: 2700 mAh",
             "OS: iOS 11",
-            "Perfil: 7.5 mm",
-            "Peso: 202 g",
-            "Color Dorado"
+            "Perfil: 7.5 mm"
         ]
     },
     {
@@ -277,37 +270,186 @@
         "imagen": "Imagenes Celulares/Celular Samsung A03 32GB.jpg",
         "precio": "¢100.000",
         "caracteristicas": [
-            "PANTALLA: 6,5 pulgadas HD+",
-            "DIMENSIONES Y PESO: 164,2 x 75,9 x 9,1 mm",
-            "PROCESADOR: Ocho núcleos a hasta 1,6 ?GHz",
-            "RAM: 3/4 GB",
-            "ALMACENAMIENTO: 32GB",
-            "CÁMARA FRONTAL: 5 MP f/2.2",
-            "CÁMARA TRASERA: 48 MP f/1.8",
-            "2 MP f/2.4",
-            "BATERÍA: 5.000 mAh",
-            "SISTEMA OPERATIVO: Android One UI",
-            "CONECTIVIDAD: 4G,Wi-Fi y Bluetooth",
-            "Colores disponibles: Rojo,Azul y negro"
+            "Pantalla: 6.5\", 720 x 1600 pixels",
+            "Procesador: Octa-core 1.6GHz",
+            "RAM: 3GB/4GB",
+            "Almacenamiento: 32GB/64GB/128GB",
+            "Expansión: microSD",
+            "Cámara: Dual, 48MP+2MP",
+            "Batería: 5000 mAh",
+            "OS: Android 12",
+            "Perfil: 9.1 mm",
+            "Peso: 196 g"
         ]
     },
     {
-        "id": "Celular Samsung A03 32GB",
-        "imagen": "Imagenes Celulares/Celular Samsung A03 32GB.jpg",
-        "precio": "¢100.000",
+        "id": "Celular Samsung A03 Core 32GB",
+        "imagen": "Imagenes Celulares/Celular Samsung A03 Core 32GB.jpg",
+        "precio": "¢93.600",
         "caracteristicas": [
-            "PANTALLA: 6,5 pulgadas HD+",
-            "DIMENSIONES Y PESO: 164,2 x 75,9 x 9,1 mm",
-            "PROCESADOR: Ocho núcleos a hasta 1,6 ?GHz",
-            "RAM: 3/4 GB",
-            "ALMACENAMIENTO: 32GB",
-            "CÁMARA FRONTAL: 5 MP f/2.2",
-            "CÁMARA TRASERA: 48 MP f/1.8",
-            "2 MP f/2.4",
-            "BATERÍA: 5.000 mAh",
-            "SISTEMA OPERATIVO: Android One UI",
-            "CONECTIVIDAD: 4G,Wi-Fi y Bluetooth",
-            "Colores disponibles: Rojo,Azul y negro"
+            "Pantalla: 6.5\", 720 x 1600 pixels",
+            "Procesador: Unisoc SC9863A 1.6GHz",
+            "RAM: 2GB",
+            "Almacenamiento: 32GB",
+            "Expansión: microSD",
+            "Cámara: 8 MP",
+            "Batería: 5000 mAh",
+            "OS: Android 11 (Go edition)",
+            "Perfil: 9.1 mm"
+        ]
+    },
+    {
+        "id": "Celular Samsung A04 Galaxy 128GB",
+        "imagen": "Imagenes Celulares/Celular Samsung A04 Galaxy 128GB.webp",
+        "precio": "¢119.000",
+        "caracteristicas": [
+            "Pantalla: 6.5\", 720 x 1600 pixels",
+            "Procesador: Unisoc SC9863A 1.6GHz",
+            "RAM: 4GB/6GB/8GB",
+            "Almacenamiento: 32GB/64GB/128GB",
+            "Expansión: microSD",
+            "Cámara: Dual,",
+            "50MP+2MP",
+            "Batería: 5000 mAh",
+            "OS: Android 12",
+            "Perfil: 9.1 mm",
+            "Peso: 192 g"
+        ]
+    },
+    {
+        "id": "Celular Samsung A10s 32GB",
+        "imagen": "Imagenes Celulares/Celular Samsung A10s 32GB.webp",
+        "precio": "¢90.000",
+        "caracteristicas": [
+            "Pantalla: 6.2\", 720 x 1520 pixels",
+            "Procesador: MediaTek Helio P22 2GHz",
+            "RAM: 2GB",
+            "Almacenamiento: 32GB",
+            "Expansión: microSD",
+            "Cámara: Dual,",
+            "13MP+2MP",
+            "Batería: 4000 mAh",
+            "OS: Android 9.0",
+            "Perfil: 7.8 mm",
+            "Peso: 168 g"
+        ]
+    },
+    {
+        "id": "Celular Samsung A23 64GB",
+        "imagen": "Imagenes Celulares/Celular Samsung A23 64GB.jpg",
+        "precio": "¢140.000",
+        "caracteristicas": [
+            "Pantalla: 6.6\", 1080 x 2408 pixels",
+            "Procesador: Snapdragon 680 2.4GHz",
+            "RAM: 4GB/6GB/8GB",
+            "Almacenamiento: 64GB/128GB",
+            "Expansión: microSD",
+            "Cámara: Cuádruple,",
+            "50MP+5MP +2MP+2MP",
+            "Batería: 5000 mAh",
+            "OS: Android 12",
+            "Perfil: 8.4 mm",
+            "Peso: 195 g"
+        ]
+    },
+    {
+        "id": "Celular Samsung A33 128GB",
+        "imagen": "Imagenes Celulares/Celular Samsung A33 128GB.webp",
+        "precio": "¢198.000",
+        "caracteristicas": [
+            "Pantalla: 6.4\", 1080 x 2400 pixels",
+            "Procesador: Octa-core 2.4GHz",
+            "RAM: 6GB/8GB",
+            "Almacenamiento: 128GB/256GB",
+            "Expansión: microSD",
+            "Cámara: Cuádruple,",
+            "48MP+8MP +5MP+2MP",
+            "Batería: 5000 mAh",
+            "OS: Android 12",
+            "Perfil: 8.1 mm",
+            "Peso: 186 g"
+        ]
+    },
+    {
+        "id": "Celular UNIWA E1801 3G",
+        "imagen": "Imagenes Celulares/Celular UNIWA E1801 3G.jpg",
+        "precio": "¢20.000",
+        "caracteristicas": [
+            "Dispositivo móvil con doble SIM",
+            "Inalámbrico",
+            "Radio FM",
+            "Compatible con vibrador de expansión TF",
+            "Colores disponibles: Azul y Negro"
+        ]
+    },
+    {
+        "id": "Celular Xiaomi Redmi 10A 32GB",
+        "imagen": "Imagenes Celulares/Celular Xiaomi Redmi 10A 32GB.jpg",
+        "precio": "¢95.000",
+        "caracteristicas": [
+            "Pantalla: 6.53\", 720 x 1600 pixels",
+            "Procesador: Mediatek Helio G25 2GHz",
+            "RAM: 4GB/6GB",
+            "Almacenamiento: 64GB/128GB",
+            "Expansión: microSD",
+            "Cámara: 13 MP",
+            "Batería: 5000 mAh",
+            "OS: Android 11",
+            "Perfil: 9 mm",
+            "Peso: 194 g"
+        ]
+    },
+    {
+        "id": "Celular Xiaomi Redmi 10C 64GB",
+        "imagen": "Imagenes Celulares/Celular Xiaomi Redmi 10C 64GB.jpg",
+        "precio": "¢123.550",
+        "caracteristicas": [
+            "Pantalla 6,71 pulgadas IPS LCD con resolución 1650 x 720píxeles",
+            "Procesador Snapdragon 680",
+            "GPU Adreno 610",
+            "Memoria RAM 4 GB",
+            "Almacenamiento interno 64 GB / 128 GB",
+            "Ranura para tarjeta de memoria Sí, hasta 1 TB",
+            "Cámara trasera 50 MP + 2 MP",
+            "Cámara frontal 5 MP",
+            "Sensores Lector de huellas trasero, acelerómetro, proximidad",
+            "Conectividad Wifi ac, Bluetooth 5.0, 4G, NFC, GPS",
+            "Batería 5.000 mAh con carga rápida de 18 W",
+            "Sistema operativo Android 11 con MIUI 13"
+        ]
+    },
+    {
+        "id": "Celular Xiaomi Redmi 9A 32GB",
+        "imagen": "Imagenes Celulares/Celular Xiaomi Redmi 9A 32GB.jpg",
+        "precio": "¢88.000",
+        "caracteristicas": [
+            "Pantalla: 6.53\", 720 x 1600 pixels",
+            "Procesador: Mediatek Helio G25 2GHz",
+            "RAM: 2GB",
+            "Almacenamiento: 32GB",
+            "Expansión: microSD",
+            "Cámara: 13 MP",
+            "Batería: 5000 mAh",
+            "OS: Android 10",
+            "Perfil: 9 mm",
+            "Peso: 194 g"
+        ]
+    },
+    {
+        "id": "Celular Xiaomi Redmi A1 32GB",
+        "imagen": "Imagenes Celulares/Celular Xiaomi Redmi A1 32GB.webp",
+        "precio": "¢50.000",
+        "caracteristicas": [
+            "Pantalla: 6.52\", 720 x 1600 pixels",
+            "Procesador: Mediatek Helio A22 2Ghz",
+            "RAM: 2GB",
+            "Almacenamiento: 32GB",
+            "Expansión: microSD",
+            "Cámara: Dual,8MP + 0.3MP",
+            "Batería: 5000 mAh",
+            "OS: Android 12",
+            "Perfil: 9.1 mm",
+            "Peso: 192"
         ]
     }
 ]
