@@ -14,7 +14,7 @@ cargarcelulares = function (datos) {
 
         var variable = "" +
             "<div class=\"col-12 col-sm-6 col-lg-4 my-2 \">" +
-            "   <div class=\"card  rounded-4 h-100 \">" +
+            "   <div class=\"card rounded-4 h-100 text-white\" data-bs-theme=\"dark\">" +
             "       <img src=\"" + element.imagen + "\" class=\"card-img-top rounded-4\" alt=\"" + element.id + "\" >" +
             "       <div class=\"card-body d-flex flex-column\">" +
             "           <h4 class=\"card-title\">" + element.id + "</h4>" +
