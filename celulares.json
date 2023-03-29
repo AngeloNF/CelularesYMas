@@ -248,24 +248,6 @@
         ]
     },
     {
-        "id": "Xiaomi Redmi A2 32GB",
-        "imagen": "Imagenes Celulares/Celular Redmi A2 32GB.webp",
-        "precio": "¢83000",
-        "caracteristicas": [
-            "Pantalla: 5.99\", 1080 x 2160 pixels",
-            "Procesador: Snapdragon 660 2.2GHz",
-            "RAM: 4GB/6GB",
-            "Almacenamiento: 32GB/64GB/128GB",
-            "Expansión: sin microSD",
-            "Cámara: Dual, 12MP+20MP",
-            "Batería: 3010 mAh",
-            "OS: Android 8.1",
-            "Perfil: 7.3 mm",
-            "Peso: 166 g",
-            "Colores disponibles: negro"
-        ]
-    },
-    {
         "id": " Samsung A03 32GB",
         "imagen": "Imagenes Celulares/Celular Samsung A03 32GB.jpg",
         "precio": "¢100000",
@@ -450,6 +432,24 @@
             "OS: Android 12",
             "Perfil: 9.1 mm",
             "Peso: 192"
+        ]
+    },
+    {
+        "id": "Xiaomi Redmi A2 32GB",
+        "imagen": "Imagenes Celulares/Celular Redmi A2 32GB.webp",
+        "precio": "¢83000",
+        "caracteristicas": [
+            "Pantalla: 5.99\", 1080 x 2160 pixels",
+            "Procesador: Snapdragon 660 2.2GHz",
+            "RAM: 4GB/6GB",
+            "Almacenamiento: 32GB/64GB/128GB",
+            "Expansión: sin microSD",
+            "Cámara: Dual, 12MP+20MP",
+            "Batería: 3010 mAh",
+            "OS: Android 8.1",
+            "Perfil: 7.3 mm",
+            "Peso: 166 g",
+            "Colores disponibles: negro"
         ]
     }
 ]
