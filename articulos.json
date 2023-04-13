@@ -1,7 +1,8 @@
 [
     {
         "id": "7Step Q1 4g",
-        "imagen": "Imagenes Celulares/Celular 7Step Q1 4g.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular 7Step Q1 4g.jpg",
         "precio": "¢24500",
         "caracteristicas": [
             "Bateria 1000mAH",
@@ -18,7 +19,8 @@
     },
     {
         "id": "Adulto Mayor 7Step Q4",
-        "imagen": "Imagenes Celulares/Celular Adulto Mayor 7Step Q4.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Adulto Mayor 7Step Q4.jpg",
         "precio": "¢30000",
         "caracteristicas": [
             "Bateria 1200mAH",
@@ -35,7 +37,8 @@
     },
     {
         "id": "Blu J0901 JOY 3G",
-        "imagen": "Imagenes Celulares/Celular Blu J0901 JOY 3G.jpeg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Blu J0901 JOY 3G.jpeg",
         "precio": "¢37000",
         "caracteristicas": [
             "Linterna"
@@ -43,7 +46,8 @@
     },
     {
         "id": "Blu X10 32GB",
-        "imagen": "Imagenes Celulares/Celular Blu X10 32GB.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Blu X10 32GB.jpg",
         "precio": "¢55000",
         "caracteristicas": [
             "Tamaño de pantalla: 5\"",
@@ -59,7 +63,8 @@
     },
     {
         "id": "Blu Z4",
-        "imagen": "Imagenes Celulares/Celular Blu Z4.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Blu Z4.jpg",
         "precio": "¢21000",
         "caracteristicas": [
             "Conectividad Bluetooth",
@@ -75,7 +80,8 @@
     },
     {
         "id": "Blu Z5",
-        "imagen": "Imagenes Celulares/Celular Blu Z5.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Blu Z5.jpg",
         "precio": "¢21500",
         "caracteristicas": [
             "SIM dual",
@@ -91,7 +97,8 @@
     },
     {
         "id": "Honor 50 256GB",
-        "imagen": "Imagenes Celulares/Celular Honor 50.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Honor 50.jpg",
         "precio": "¢314000",
         "caracteristicas": [
             "Pantalla: 6.57\", 1080 x 2340 pixels",
@@ -108,7 +115,8 @@
     },
     {
         "id": "Honor 70 256GB",
-        "imagen": "Imagenes Celulares/Celular Honor 70.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Honor 70.jpg",
         "precio": "¢360000",
         "caracteristicas": [
             "Pantalla: 6.67\", 1080 x 2400 pixels",
@@ -125,7 +133,8 @@
     },
     {
         "id": "Honor X6 64GB",
-        "imagen": "Imagenes Celulares/Celular Honor X6 64GB.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Honor X6 64GB.jpg",
         "precio": "¢114000",
         "caracteristicas": [
             "            Pantalla: 6.5\", 720 x 1600 pixels",
@@ -142,7 +151,8 @@
     },
     {
         "id": "Honor X6s 128GB",
-        "imagen": "Imagenes Celulares/Celular Honor X6s 128GB.webp",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Honor X6s 128GB.webp",
         "precio": "¢130000",
         "caracteristicas": [
             "Pantalla: 6.5\" 1600 x 720 TFTLCD",
@@ -161,7 +171,8 @@
     },
     {
         "id": "Honor X7a 128GB",
-        "imagen": "Imagenes Celulares/Celular Honor X7a 128GB.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Honor X7a 128GB.jpg",
         "precio": "¢145000",
         "caracteristicas": [
             "Pantalla: 6.74\", 720 x 1600 pixels",
@@ -178,7 +189,8 @@
     },
     {
         "id": "Honor X8 128GB",
-        "imagen": "Imagenes Celulares/Celular Honor X8 128GB.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Honor X8 128GB.jpg",
         "precio": "¢170000",
         "caracteristicas": [
             "Pantalla: 6.7\", 1080 x 2388 pixels",
@@ -195,7 +207,8 @@
     },
     {
         "id": "iPhone 7 Plus 128GB",
-        "imagen": "Imagenes Celulares/Celular iPhone 7 Plus 128GB.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular iPhone 7 Plus 128GB.jpg",
         "precio": "¢180000",
         "caracteristicas": [
             "Pantalla: 5.5\", 1080 x 1920 pixels",
@@ -210,7 +223,8 @@
     },
     {
         "id": "iPhone 7 Plus 32GB",
-        "imagen": "Imagenes Celulares/Celular iPhone 7 Plus 128GB.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular iPhone 7 Plus 128GB.jpg",
         "precio": "¢160000",
         "caracteristicas": [
             "Pantalla: 5.5\", 1080 x 1920 pixels",
@@ -225,7 +239,8 @@
     },
     {
         "id": "iPhone 8 Plus 256GB",
-        "imagen": "Imagenes Celulares/Celular iPhone 8 PLus 256GB.png",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular iPhone 8 PLus 256GB.png",
         "precio": "¢210000",
         "caracteristicas": [
             "Pantalla: 5.5\", 1080 x 1920 pixels",
@@ -241,7 +256,8 @@
     },
     {
         "id": " LW-105",
-        "imagen": "Imagenes Celulares/Celular LW-105.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular LW-105.jpg",
         "precio": "¢20000",
         "caracteristicas": [
             "Linterna"
@@ -249,7 +265,8 @@
     },
     {
         "id": " Samsung A03 32GB",
-        "imagen": "Imagenes Celulares/Celular Samsung A03 32GB.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Samsung A03 32GB.jpg",
         "precio": "¢100000",
         "caracteristicas": [
             "Pantalla: 6.5\", 720 x 1600 pixels",
@@ -266,7 +283,8 @@
     },
     {
         "id": " Samsung A03 Core 32GB",
-        "imagen": "Imagenes Celulares/Celular Samsung A03 Core 32GB.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Samsung A03 Core 32GB.jpg",
         "precio": "¢93600",
         "caracteristicas": [
             "Pantalla: 6.5\", 720 x 1600 pixels",
@@ -282,7 +300,8 @@
     },
     {
         "id": " Samsung A04 Galaxy 128GB",
-        "imagen": "Imagenes Celulares/Celular Samsung A04 Galaxy 128GB.webp",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Samsung A04 Galaxy 128GB.webp",
         "precio": "¢119000",
         "caracteristicas": [
             "Pantalla: 6.5\", 720 x 1600 pixels",
@@ -300,7 +319,8 @@
     },
     {
         "id": " Samsung A10s 32GB",
-        "imagen": "Imagenes Celulares/Celular Samsung A10s 32GB.webp",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Samsung A10s 32GB.webp",
         "precio": "¢90000",
         "caracteristicas": [
             "Pantalla: 6.2\", 720 x 1520 pixels",
@@ -318,7 +338,8 @@
     },
     {
         "id": " Samsung A23 64GB",
-        "imagen": "Imagenes Celulares/Celular Samsung A23 64GB.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Samsung A23 64GB.jpg",
         "precio": "¢140000",
         "caracteristicas": [
             "Pantalla: 6.6\", 1080 x 2408 pixels",
@@ -336,7 +357,8 @@
     },
     {
         "id": " Samsung A33 128GB",
-        "imagen": "Imagenes Celulares/Celular Samsung A33 128GB.webp",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Samsung A33 128GB.webp",
         "precio": "¢198000",
         "caracteristicas": [
             "Pantalla: 6.4\", 1080 x 2400 pixels",
@@ -354,7 +376,8 @@
     },
     {
         "id": " UNIWA E1801 3G",
-        "imagen": "Imagenes Celulares/Celular UNIWA E1801 3G.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular UNIWA E1801 3G.jpg",
         "precio": "¢20000",
         "caracteristicas": [
             "Dispositivo móvil con doble SIM",
@@ -366,7 +389,8 @@
     },
     {
         "id": " Xiaomi Redmi 10A 32GB",
-        "imagen": "Imagenes Celulares/Celular Xiaomi Redmi 10A 32GB.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Xiaomi Redmi 10A 32GB.jpg",
         "precio": "¢95000",
         "caracteristicas": [
             "Pantalla: 6.53\", 720 x 1600 pixels",
@@ -383,7 +407,8 @@
     },
     {
         "id": " Xiaomi Redmi 10C 64GB",
-        "imagen": "Imagenes Celulares/Celular Xiaomi Redmi 10C 64GB.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Xiaomi Redmi 10C 64GB.jpg",
         "precio": "¢123000",
         "caracteristicas": [
             "Pantalla 6,71 pulgadas IPS LCD con resolución 1650 x 720píxeles",
@@ -402,7 +427,8 @@
     },
     {
         "id": " Xiaomi Redmi 9A 32GB",
-        "imagen": "Imagenes Celulares/Celular Xiaomi Redmi 9A 32GB.jpg",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Xiaomi Redmi 9A 32GB.jpg",
         "precio": "¢88000",
         "caracteristicas": [
             "Pantalla: 6.53\", 720 x 1600 pixels",
@@ -419,8 +445,9 @@
     },
     {
         "id": " Xiaomi Redmi A1 32GB",
-        "imagen": "Imagenes Celulares/Celular Xiaomi Redmi A1 32GB.webp",
-        "precio": "¢50000",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Xiaomi Redmi A1 32GB.webp",
+        "precio": "¢80000",
         "caracteristicas": [
             "Pantalla: 6.52\", 720 x 1600 pixels",
             "Procesador: Mediatek Helio A22 2Ghz",
@@ -436,7 +463,8 @@
     },
     {
         "id": "Xiaomi Redmi A2 32GB",
-        "imagen": "Imagenes Celulares/Celular Redmi A2 32GB.webp",
+        "categoria": "Celulares",
+        "imagen": "Imagenes Celulares/celulares/Celular Redmi A2 32GB.webp",
         "precio": "¢83000",
         "caracteristicas": [
             "Pantalla: 5.99\", 1080 x 2160 pixels",
